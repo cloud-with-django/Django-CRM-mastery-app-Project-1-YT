@@ -14,7 +14,8 @@ Feel free to connect with me on the following platforms:
 
 [![Subscribe on YouTube](https://img.shields.io/badge/Subscribe%20on%20YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CloudWithDjango)
 
-[![Follow on X](https://img.shields.io/badge/Follow%20on%20X-1da1f2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CloudWDjango)
+[![Follow on X](https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CloudWDjango)
+
 
 
 
